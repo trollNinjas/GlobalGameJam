@@ -7,3 +7,6 @@ LUAXD
 GABO
 turi
 modificacion Miguel
+el banjo es un 25.3
+47]\
+45
