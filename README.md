@@ -7,4 +7,4 @@ LUAXD
 GABO
 turi
 modificacion Miguel
-el banjo es un pito
+recursos
